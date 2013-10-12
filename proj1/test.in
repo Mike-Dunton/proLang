@@ -1,0 +1,9 @@
+(load "proj1")
+
+(OK '(a red car rides the road))
+(OK '(a hairy red dog occupies the hot red car)) 
+
+(adj '(hairy red dog))
+(det '(red car))
+(adj (adj '(hairy red dog)))
+(noun (det '(a dog $)))

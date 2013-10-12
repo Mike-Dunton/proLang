@@ -1,0 +1,4 @@
+(load "proj1")
+
+(sentence '(the red dog rides a hot car $))
+(sentence '(a rides car $))

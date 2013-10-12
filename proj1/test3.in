@@ -1,0 +1,9 @@
+(load "proj1")
+
+(nounphrase1 '(a dog $))
+(nounphrase1 '(red dog $))
+(nounphrase1 '(dog $))
+
+(nounphrase1 '(a dog PASSED NOUNPHRASE TEST 3.4))
+(nounphrase1 '(red dog FAILED NOUNPHRASE TEST 3.5))
+(nounphrase1 '(dog PASSED NOUNPHRASE TEST 3.6))

@@ -1,0 +1,8 @@
+(load "proj1")
+
+(sentence '(the hairy hot red dog eats a red hot hot hot apple PASSED SENTENCE TEST 4.3))
+(sentence '(the hairy hot red dog walks PASSED SENTENCE TEST 4.4))
+(sentence '(an apple FAILED SENTENCE TEST 4.5))
+(sentence '(a red dog FAILED SENTENCE TEST 4.6))
+(sentence '(dog eats))
+(sentence '(the hairy hot red dog walks a PASSED SENTENCE TEST 4.4))

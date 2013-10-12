@@ -1,0 +1,8 @@
+(load "proj1")
+
+(noun (det '(a dog $)))
+(sentence '(a dog $))
+(sentence '(red dog $))
+
+(sentence '(a dog $))
+(sentence '(red dog $))

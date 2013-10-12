@@ -1,0 +1,5 @@
+(load "proj1")
+
+(verbphrase '(eats PASSED VERBPHRASE TEST 4.1))
+(verbphrase '(eats red dog PASSED VERBPHRASE TEST 4.2))
+(verbphrase '(eats a red hot car PASSED VERBPHRASE TEST 4.3))

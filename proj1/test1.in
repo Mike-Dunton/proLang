@@ -1,0 +1,10 @@
+(load "proj1")
+
+(det '(a dog))
+(det '(red car))
+(adj '(red car))
+
+(adj '(red dog))
+(adj '(the dog))
+(det '(the car))
+
